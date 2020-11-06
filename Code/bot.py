@@ -33,15 +33,11 @@ async def on_message(message):
 
     ]
 
-    lmao = [
-    'really?','really?','really?'
-    ]
 
     if message.content == 'test':
         response = random.choice(harry_potter)
         await message.channel.send(response)
-    if message.content == 'help':
-        response = random.choice(lmao)
+
     elif message.content == 'raise-exception':
         raise discord.DiscordException
 
