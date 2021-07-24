@@ -16,7 +16,7 @@ Discord bot to mute users using commands in the chat.
 - Create a .env file in the code folder and paste your bot and guild tokens there-
 ```
    DISCORD_TOKEN=bot_token
-   GUILD_TOKEN=guild_token
+   DISCORD_GUILD=guild_token
 ```
 - Run the bot
 `python3 bot.py`
