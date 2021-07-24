@@ -21,5 +21,8 @@ Discord bot to mute users using commands in the chat.
 - Run the bot
 `python3 bot.py`
 
+## Caution: 
+Works regardless of the server permissions.
+
 
 
