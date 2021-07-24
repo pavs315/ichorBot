@@ -11,7 +11,7 @@ Discord bot to mute users using commands in the chat.
 .unmuteall                  | unmutes everyone
  ```
  
-##For hosting:
+## For hosting:
 
 - Create a .env file in the code folder and paste your bot and guild tokens there-
 ```
